@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">🔐 EHX Tool 2025 – Pro Password Cracker</h1>
 
 <p align="center">
@@ -30,15 +29,15 @@ This tool was developed for cybersecurity education, ethical hacking, and penetr
 ✅ Crack hashes: MD5, SHA1, SHA256, SHA512  
 ✅ Wordlist-based dictionary attacks  
 ✅ Sleek CLI with colored output  
-✅ Works on Termux, Kali Linux, and more
+✅ Works on Termux, Kali Linux, Ubuntu & WSL
 
 ---
 
 ## 📸 Screenshot
 
-> Add a terminal screenshot showing the banner and a cracking attempt here  
-> Example:
-> `![EHX Tool Screenshot](screenshot.png)`
+> Example Screenshot (replace `screenshot.png` with your image name):
+
+![EHX Tool Screenshot](screenshot.png)
 
 ---
 
@@ -46,22 +45,20 @@ This tool was developed for cybersecurity education, ethical hacking, and penetr
 
 - Python 3.6 or higher  
 - `rich` Python module  
-- Tools (installed & in PATH): `unrar`, `7z`, `qpdf`  
-- Wordlist file (e.g., `rockyou.txt`)
+- External tools: `unrar`, `7z`, `qpdf`  
+- A wordlist file (like `rockyou.txt`)
 
-Install Python dependencies:
+### Install Python module:
 ```bash
 pip install rich
-````
+```
 
-For Kali/Ubuntu:
-
+### For Kali/Ubuntu:
 ```bash
 sudo apt install unrar p7zip-full qpdf -y
 ```
 
-For Termux:
-
+### For Termux:
 ```bash
 pkg install unrar p7zip qpdf -y
 ```
@@ -70,7 +67,7 @@ pkg install unrar p7zip qpdf -y
 
 ## 🚀 Installation
 
-### Termux
+### 📱 Termux
 
 ```bash
 pkg update && pkg install git python -y
@@ -80,7 +77,7 @@ pip install rich
 python3 mn_tool.py
 ```
 
-### Kali Linux / Ubuntu
+### 💻 Kali Linux / Ubuntu
 
 ```bash
 sudo apt update && sudo apt install git python3-pip unrar p7zip-full qpdf -y
@@ -94,28 +91,28 @@ python3 mn_tool.py
 
 ## 💬 Join the Community
 
-Get support, watch tutorials, and learn ethical hacking:
+Get support, watch tutorials, and learn ethical hacking:  
 👉 [https://t.me/ethiohackerx](https://t.me/ethiohackerx)
 
 ---
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
-You are free to use, modify, and distribute the tool, as long as you include the original license and use it ethically.
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this tool as long as you include the original license and use it ethically.
 
 ---
 
-## 🙏 Disclaimer
+##  Disclaimer
 
-This software is provided for educational and ethical testing purposes only.
-**Unauthorized use on systems without permission is illegal.**
+This software is provided for educational and ethical testing purposes only.  
+**Unauthorized use on systems without permission is illegal.**  
 The developer is not responsible for any misuse.
 
 ---
 
 ## ✍️ Author
 
-**Ethio Hacker X**
-Telegram: [https://t.me/ethiohackerx](https://t.me/ethiohackerx)
-GitHub: [https://github.com/YourUser](https://github.com/YourUser)
+**Ethio Hacker X**  
+- Telegram: [https://t.me/ethiohackerx](https://t.me/ethiohackerx)  
+- GitHub: [https://github.com/YourUser](https://github.com/YourUser)
