@@ -35,9 +35,7 @@ This tool was developed for cybersecurity education, ethical hacking, and penetr
 
 ## 📸 Screenshot
 
-> Example Screenshot (replace `screenshot.png` with your image name):
-
-![EHX Tool Screenshot](screenshot.png)
+![EHX Tool Screenshot](https://imgur.com/a/nokhKir)
 
 ---
 
@@ -71,28 +69,23 @@ pkg install unrar p7zip qpdf -y
 
 ```bash
 pkg update && pkg install git python -y
-git clone https://github.com/YourUser/EHX-Tool-2025.git
-cd EHX-Tool-2025
+git clone https://github.com/EthioHackerx/EHX-Password-Cracker-Tool.git
+cd EHX-Password-Cracker-Tool
 pip install rich
-python3 mn_tool.py
+python3 EHX-TOOL.py
 ```
 
 ### 💻 Kali Linux / Ubuntu
 
 ```bash
 sudo apt update && sudo apt install git python3-pip unrar p7zip-full qpdf -y
-git clone https://github.com/YourUser/EHX-Tool-2025.git
-cd EHX-Tool-2025
+git clone https://github.com/EthioHackerx/EHX-Password-Cracker-Tool.git
+cd EHX-Password-Cracker-Tool
 pip3 install rich
-python3 mn_tool.py
+python3 EHX-TOOL.py
 ```
 
 ---
-
-## 💬 Join the Community
-
-Get support, watch tutorials, and learn ethical hacking:  
-👉 [https://t.me/ethiohackerx](https://t.me/ethiohackerx)
 
 ---
 
@@ -110,9 +103,12 @@ This software is provided for educational and ethical testing purposes only.
 The developer is not responsible for any misuse.
 
 ---
-
-## ✍️ Author
+## 💬 Join the Community
+Get support, watch tutorials, and learn ethical hacking:  
 
 **Ethio Hacker X**  
 - Telegram: [https://t.me/ethiohackerx](https://t.me/ethiohackerx)  
-- GitHub: [https://github.com/YourUser](https://github.com/YourUser)
+- GitHub: [https://github.com/EthioHackerx](https://github.com/EthioHackerx)
+- Youtube:[https://youtube.com/@ethiohackerx](https://youtube.com/@ethiohackerx)
+- TikTok: [https://tiktok.com/@ethio_hacker_x](https://tiktok.com/@ethio_hacker_x)
+- X: [https://x.com/EthioHackerX](https://x.com/EthioHackerX)
