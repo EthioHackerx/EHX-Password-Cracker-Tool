@@ -35,8 +35,7 @@ This tool was developed for cybersecurity education, ethical hacking, and penetr
 
 ## 📸 Screenshot
 
-![EHX Tool Screenshot](<img width="935" height="537" alt="Image" src="https://github.com/user-attachments/assets/2bdf1c5d-cff1-4234-af46-2181ab88532b" />)
-
+<img width="935" height="537" alt="Image" src="https://github.com/user-attachments/assets/2bdf1c5d-cff1-4234-af46-2181ab88532b"/>
 ---
 
 ## ⚙️ Requirements
