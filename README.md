@@ -1,10 +1,15 @@
-<h1 align="center">🔐 MN TooL 2025 – Pro Password Cracker</h1>
+Great start! Here's your full `README.md` completed and adapted to your new tool name — **EHX Tool 2025**, with everything structured professionally:
+
+---
+
+````markdown
+<h1 align="center">🔐 EHX Tool 2025 – Pro Password Cracker</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/YourUser/MN-TooL-2025?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/YourUser/MN-TooL-2025?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/YourUser/MN-TooL-2025?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/YourUser/MN-TooL-2025?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/YourUser/EHX-Tool-2025?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/YourUser/EHX-Tool-2025?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/YourUser/EHX-Tool-2025?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/YourUser/EHX-Tool-2025?style=for-the-badge" />
 </p>
 
 ---
@@ -17,23 +22,119 @@ This tool was developed for cybersecurity education, ethical hacking, and penetr
 
 ## 📌 About
 
-**MN TooL 2025** is a multi-function **password cracking suite** developed in Python by **Man Yonatan**. It uses fast dictionary attacks against **ZIP, RAR, PDF**, and **Hash** formats, all in a sleek terminal interface powered by [Rich](https://github.com/Textualize/rich).
+**EHX Tool 2025** is a professional password cracking suite developed in Python by **Ethio Hacker X**. It supports cracking **ZIP**, **RAR**, **PDF**, and various **hashes (MD5, SHA1, SHA256, SHA512)** using dictionary-based attacks in a sleek command-line interface powered by [Rich](https://github.com/Textualize/rich).
 
 ---
 
 ## 🎯 Features
 
-✅ Crack ZIP passwords (supports AES & classic ZIP)  
+✅ Crack ZIP passwords (supports AES & legacy ZIP)  
 ✅ Crack RAR passwords using `unrar`  
 ✅ Crack encrypted PDF files using `qpdf`  
-✅ Crack common hashes: MD5, SHA1, SHA256, SHA512  
-✅ Uses wordlist-based dictionary attacks  
-✅ Beautiful command-line UI with Rich  
-✅ Lightweight, fast, and cross-platform
+✅ Crack hashes: MD5, SHA1, SHA256, SHA512  
+✅ Wordlist-based dictionary attacks  
+✅ Sleek CLI with colored output  
+✅ Works on Termux, Kali Linux, and more
 
 ---
 
 ## 📸 Screenshot
 
-> Replace this with your real screenshot later:
+> Add a terminal screenshot showing the banner and a cracking attempt here  
+> Example:
+> `![EHX Tool Screenshot](screenshot.png)`
 
+---
+
+## ⚙️ Requirements
+
+- Python 3.6 or higher  
+- `rich` Python module  
+- Tools (installed & in PATH): `unrar`, `7z`, `qpdf`  
+- Wordlist file (e.g., `rockyou.txt`)
+
+Install Python dependencies:
+```bash
+pip install rich
+````
+
+For Kali/Ubuntu:
+
+```bash
+sudo apt install unrar p7zip-full qpdf -y
+```
+
+For Termux:
+
+```bash
+pkg install unrar p7zip qpdf -y
+```
+
+---
+
+## 🚀 Installation
+
+### Termux
+
+```bash
+pkg update && pkg install git python -y
+git clone https://github.com/YourUser/EHX-Tool-2025.git
+cd EHX-Tool-2025
+pip install rich
+python3 mn_tool.py
+```
+
+### Kali Linux / Ubuntu
+
+```bash
+sudo apt update && sudo apt install git python3-pip unrar p7zip-full qpdf -y
+git clone https://github.com/YourUser/EHX-Tool-2025.git
+cd EHX-Tool-2025
+pip3 install rich
+python3 mn_tool.py
+```
+
+---
+
+## 💬 Join the Community
+
+Get support, watch tutorials, and learn ethical hacking:
+👉 [https://t.me/ethiohackerx](https://t.me/ethiohackerx)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+You are free to use, modify, and distribute the tool, as long as you include the original license and use it ethically.
+
+---
+
+## 🙏 Disclaimer
+
+This software is provided for educational and ethical testing purposes only.
+**Unauthorized use on systems without permission is illegal.**
+The developer is not responsible for any misuse.
+
+---
+
+## ✍️ Author
+
+**Ethio Hacker X**
+Telegram: [https://t.me/ethiohackerx](https://t.me/ethiohackerx)
+GitHub: [https://github.com/YourUser](https://github.com/YourUser)
+
+````
+
+---
+
+✅ Replace `YourUser` with your GitHub username.  
+✅ Add a real screenshot named `screenshot.png` in your repo.  
+✅ Add a `LICENSE` file (I can generate it if you want).  
+✅ Optionally create a `requirements.txt`:
+
+```txt
+rich
+````
+
+Would you like me to generate the `LICENSE` file and `requirements.txt` content now?
