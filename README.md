@@ -1,7 +1,3 @@
-Great start! Here's your full `README.md` completed and adapted to your new tool name — **EHX Tool 2025**, with everything structured professionally:
-
----
-
 ````markdown
 <h1 align="center">🔐 EHX Tool 2025 – Pro Password Cracker</h1>
 
@@ -123,18 +119,3 @@ The developer is not responsible for any misuse.
 **Ethio Hacker X**
 Telegram: [https://t.me/ethiohackerx](https://t.me/ethiohackerx)
 GitHub: [https://github.com/YourUser](https://github.com/YourUser)
-
-````
-
----
-
-✅ Replace `YourUser` with your GitHub username.  
-✅ Add a real screenshot named `screenshot.png` in your repo.  
-✅ Add a `LICENSE` file (I can generate it if you want).  
-✅ Optionally create a `requirements.txt`:
-
-```txt
-rich
-````
-
-Would you like me to generate the `LICENSE` file and `requirements.txt` content now?
