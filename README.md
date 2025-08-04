@@ -2,9 +2,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/EthioHackerx/EHX-Password-Cracker-Tool?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/YourUser/EHX-Tool-2025?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/YourUser/EHX-Tool-2025?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/YourUser/EHX-Tool-2025?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/EthioHackerx/EHX-Password-Cracker-Tool?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/EthioHackerx/EHX-Password-Cracker-Tool?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/EthioHackerx/EHX-Password-Cracker-Tool?style=for-the-badge" />
 </p>
 
 ---
