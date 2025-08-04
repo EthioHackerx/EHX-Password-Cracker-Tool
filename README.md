@@ -1,4 +1,4 @@
-<h1 align="center">🔐 EHX Tool 2025 – Pro Password Cracker</h1>
+<h1 align="center">🔐 EHX Password Cracker Tool 2025 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/EthioHackerx/EHX-Password-Cracker-Tool?style=for-the-badge" />
@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/github/issues/EthioHackerx/EHX-Password-Cracker-Tool?style=for-the-badge" />
   <img src="https://img.shields.io/github/license/EthioHackerx/EHX-Password-Cracker-Tool?style=for-the-badge" />
 </p>
+
 
 ---
 
