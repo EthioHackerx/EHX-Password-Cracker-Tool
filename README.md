@@ -10,7 +10,7 @@ This tool was developed for cybersecurity education, ethical hacking, and penetr
 
 ## 📌 About
 
-**EHX Tool 2025** is a professional password cracking suite developed in Python by **Ethio Hacker X**. It supports cracking **ZIP**, **RAR**, **PDF**, and various **hashes (MD5, SHA1, SHA256, SHA512)** using dictionary-based attacks in a sleek command-line interface powered by [Rich](https://github.com/Textualize/rich).
+**EHX Password Cracker Tool** is a professional password cracking suite developed in Python by **Yonatan Muluken ( Ethio Hacker X )**. It supports cracking **ZIP**, **RAR**, **PDF**, and various **hashes (MD5, SHA1, SHA256, SHA512)** using dictionary-based attacks in a sleek command-line interface powered by [Rich](https://github.com/Textualize/rich).
 
 ---
 
