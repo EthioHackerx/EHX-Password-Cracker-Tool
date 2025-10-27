@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# MN TooL 2025 - Pro Password Cracker
-# Developed by Man Yonatan - Use Ethically!
+# EHX Password Carcker TOOL - Pro Password Cracker
+# Developed by Yonatan Muluken ( ETHIO HACKER X ) - Use Ethically!
 
 import os
 import sys
@@ -26,15 +26,18 @@ HASH_TYPES = {
 
 # ─────────────── BANNER ───────────────
 BANNER = r"""
-          MN TooL 2025 - Password Cracker
+          EHX Password Cracker TOOL
 
-███    ███ ███    ██     ████████  ██████   ██████   ██
-████  ████ ████   ██        ██    ██    ██ ██    ██  ██
-██ ████ ██ ██ ██  ██        ██    ██    ██ ██    ██  ██
-██  ██  ██ ██  ██ ██        ██    ██    ██ ██    ██  ██
-██      ██ ██   ████        ██     ██████   ██████   ███████
+ ██████████ █████   ██████████ █████    ███████████  ███████       ███████   █████      
+░░███░░░░░█░░███   ░░███░░███ ░░███    ░█░░░███░░░████░░░░░███   ███░░░░░███░░███       
+ ░███  █ ░  ░███    ░███ ░░███ ███     ░   ░███  ░███     ░░███ ███     ░░███░███       
+ ░██████    ░███████████  ░░█████          ░███  ░███      ░███░███      ░███░███       
+ ░███░░█    ░███░░░░░███   ███░███         ░███  ░███      ░███░███      ░███░███       
+ ░███ ░   █ ░███    ░███  ███ ░░███        ░███  ░░███     ███ ░░███     ███ ░███      █
+ ██████████ █████   ██████████ █████       █████  ░░░███████░   ░░░███████░  ███████████
+░░░░░░░░░░ ░░░░░   ░░░░░░░░░░ ░░░░░       ░░░░░     ░░░░░░░       ░░░░░░░   ░░░░░░░░░░░ 
 
-         Developed by $Man Yon - Use Ethically!
+         Developed by Yonatan Muluken ( ETHIO HACKER X ) - Use Ethically!
 """
 
 # ─────────────── WORDLIST LOADER ───────────────
@@ -203,4 +206,5 @@ if __name__ == "__main__":
     try:
         main_menu()
     except KeyboardInterrupt:
+
         console.print("\n[red]Interrupted by user.[/red]")
