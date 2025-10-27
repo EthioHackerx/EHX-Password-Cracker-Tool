@@ -28,7 +28,7 @@ This tool was developed for cybersecurity education, ethical hacking, and penetr
 
 ## 📸 Screenshot
 
-<img width="935" height="537" alt="Image" src="https://github.com/user-attachments/assets/2bdf1c5d-cff1-4234-af46-2181ab88532b" />
+<img width="1167" height="552" alt="Image" src="https://github.com/user-attachments/assets/e6f8f7a8-22c0-4e27-83b5-a50597c262bc" />
 
 ---
 
